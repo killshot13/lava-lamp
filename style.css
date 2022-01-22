@@ -113,17 +113,17 @@ body {
 }
 
 .bubble1 {
-  tranform-origin: 30% 50%;
+  transform-origin: 30% 50%;
   animation: bubbly 18s ease infinite;
 }
 
 .bubble2 {
-  tranform-origin: 10% 70%;
+  transform-origin: 10% 70%;
   animation: bubbly 14s ease-in-out infinite;
 }
 
 .bubble3 {
-  tranform-origin: 50% 30%;
+  transform-origin: 50% 30%;
   animation: bubbly 20s linear infinite;
 }
 
